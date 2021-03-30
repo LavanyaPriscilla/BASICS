@@ -1,0 +1,12 @@
+NOTES:
+
+Varibles:
+a variable
+1 value
+variable will store value.
+variable starts with alphebate and _.
+eg: _ab, abc.
+variables are case sensitive.
+
+String: anything in double quotes called string.
+variables dont have string.
